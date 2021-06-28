@@ -1054,6 +1054,7 @@
             <e p="JsonManager.cs" t="Include" />
           </e>
           <e p="Scene Management" t="Include">
+            <e p="MusicManager.cs" t="Include" />
             <e p="Quit.cs" t="Include" />
             <e p="ResolutionManager.cs" t="Include" />
             <e p="SaveMusic.cs" t="Include" />

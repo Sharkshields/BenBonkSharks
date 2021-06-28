@@ -8,14 +8,12 @@ public class SaveMusic : MonoBehaviour
     private SaveMusic[] objects;
     void Awake()
     {
-        DontDestroyOnLoad(gameObject);
         json.Load("settings");
-        
     }
 
     void Start()
     {
-         objects = FindObjectsOfType<SaveMusic>();
+        objects = FindObjectsOfType<SaveMusic>();
     }
     
     void Update()
