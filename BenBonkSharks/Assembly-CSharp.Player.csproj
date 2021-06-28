@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\Scene Management\Quit.cs" />
      <Compile Include="Assets\Scripts\Info Management\JsonManager.cs" />
      <Compile Include="Assets\Scripts\Scene Management\SaveMusic.cs" />
+     <Compile Include="Assets\Scripts\Scene Management\MusicManager.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll</HintPath>
  </Reference>

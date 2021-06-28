@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/MusicManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene Management/ScrollText.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -15,6 +16,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Info Management/CSVManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/ScrollText.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Info Management/CSVReader.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SaveMusic.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/MusicManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uZFhmNEyh2d8DAs0Idv5KNOJtE" />
@@ -40,6 +43,7 @@
       <updated>1624865335031</updated>
       <workItem from="1624865377100" duration="3000000" />
       <workItem from="1624872480150" duration="2517000" />
+      <workItem from="1624884894163" duration="2129000" />
     </task>
     <servers />
   </component>
