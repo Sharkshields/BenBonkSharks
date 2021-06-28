@@ -55,13 +55,13 @@
      <Compile Include="Assets\Scripts\Info Management\CSVReader.cs" />
      <Compile Include="Assets\Scripts\Info Management\CSVManager.cs" />
      <Compile Include="Assets\Scripts\Structs\SettingsStruct.cs" />
+     <Compile Include="Assets\Scripts\Scene Management\ScrollText.cs" />
      <Compile Include="Assets\Scripts\Scene Management\ResolutionManager.cs" />
      <Compile Include="Assets\Scripts\Scene Management\SceneMenager.cs" />
      <Compile Include="Assets\Scripts\Structs\PreservationStruct.cs" />
      <Compile Include="Assets\Scripts\Scene Management\Quit.cs" />
      <Compile Include="Assets\Scripts\Info Management\JsonManager.cs" />
      <Compile Include="Assets\Scripts\Scene Management\SaveMusic.cs" />
-     <Compile Include="Assets\Scripts\Scene Management\ScrollText.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll</HintPath>
  </Reference>
