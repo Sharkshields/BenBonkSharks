@@ -18,6 +18,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Info Management/CSVReader.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/SaveMusic.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/MusicManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Management/MusicController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uZFhmNEyh2d8DAs0Idv5KNOJtE" />
@@ -44,6 +45,7 @@
       <workItem from="1624865377100" duration="3000000" />
       <workItem from="1624872480150" duration="2517000" />
       <workItem from="1624884894163" duration="2129000" />
+      <workItem from="1625196403894" duration="251000" />
     </task>
     <servers />
   </component>
